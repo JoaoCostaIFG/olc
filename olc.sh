@@ -1,5 +1,5 @@
 #!/bin/sh
-# olc: Read the Word of God from your terminal
+# olc: Read Os Lusiadas from your terminal
 # License: Public domain
 
 SELF="$0"
